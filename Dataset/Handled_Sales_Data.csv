@@ -1,0 +1,528 @@
+﻿DATE,PRODUCT ID,QUANTITY,SALE TYPE,PAYMENT MODE,DISCOUNT %,Day,Year,Month_num,Month,PRODUCT,CATEGORY,UOM,BUYING PRICE,SELLING PRICE,Total Buying Value,Total Selling Value
+"Tuesday, January 19, 2021",P0035,6,Direct Sales,Cash,0,19,2021,1,Jan,Product35,Category04,No.,5,6.7,30,40.2
+"Monday, January 25, 2021",P0035,7,Direct Sales,Online,0,25,2021,1,Jan,Product35,Category04,No.,5,6.7,35,46.9
+"Saturday, February 6, 2021",P0035,1,Direct Sales,Cash,0,6,2021,2,Feb,Product35,Category04,No.,5,6.7,5,6.7
+"Saturday, January 9, 2021",P0031,1,Direct Sales,Cash,0,9,2021,1,Jan,Product31,Category04,Kg,93,104.16,93,104.16
+"Monday, January 25, 2021",P0031,14,Direct Sales,Online,0,25,2021,1,Jan,Product31,Category04,Kg,93,104.16,1302,1458.24
+"Wednesday, January 20, 2021",P0034,4,Direct Sales,Cash,0,20,2021,1,Jan,Product34,Category04,Lt,55,58.3,220,233.2
+"Monday, January 25, 2021",P0034,6,Direct Sales,Cash,0,25,2021,1,Jan,Product34,Category04,Lt,55,58.3,330,349.8
+"Tuesday, February 9, 2021",P0034,14,Direct Sales,Online,0,9,2021,2,Feb,Product34,Category04,Lt,55,58.3,770,816.2
+"Monday, February 15, 2021",P0027,4,Direct Sales,Online,0,15,2021,2,Feb,Product27,Category04,Lt,48,57.12,192,228.48
+"Thursday, January 28, 2021",P0029,2,Direct Sales,Cash,0,28,2021,1,Jan,Product29,Category04,Lt,47,53.11,94,106.22
+"Thursday, February 25, 2021",P0030,2,Direct Sales,Online,0,25,2021,2,Feb,Product30,Category04,Ft,148,201.28,296,402.56
+"Thursday, March 25, 2021",P0029,8,Direct Sales,Cash,0,25,2021,3,Mar,Product29,Category04,Lt,47,53.11,376,424.88
+"Saturday, March 27, 2021",P0030,3,Direct Sales,Online,0,27,2021,3,Mar,Product30,Category04,Ft,148,201.28,444,603.84
+"Monday, April 12, 2021",P0029,4,Direct Sales,Online,0,12,2021,4,Apr,Product29,Category04,Lt,47,53.11,188,212.44
+"Monday, April 12, 2021",P0027,9,Direct Sales,Online,0,12,2021,4,Apr,Product27,Category04,Lt,48,57.12,432,514.08
+"Monday, April 12, 2021",P0033,13,Direct Sales,Cash,0,12,2021,4,Apr,Product33,Category04,Kg,95,119.7,1235,1556.1
+"Friday, April 23, 2021",P0028,10,Direct Sales,Online,0,23,2021,4,Apr,Product28,Category04,No.,37,41.81,370,418.1
+"Thursday, April 29, 2021",P0030,7,Direct Sales,Online,0,29,2021,4,Apr,Product30,Category04,Ft,148,201.28,1036,1408.96
+"Friday, April 30, 2021",P0029,1,Direct Sales,Online,0,30,2021,4,Apr,Product29,Category04,Lt,47,53.11,47,53.11
+"Sunday, May 9, 2021",P0028,8,Direct Sales,Cash,0,9,2021,5,May,Product28,Category04,No.,37,41.81,296,334.48
+"Wednesday, May 12, 2021",P0035,15,Direct Sales,Online,0,12,2021,5,May,Product35,Category04,No.,5,6.7,75,100.5
+"Thursday, May 13, 2021",P0029,4,Direct Sales,Online,0,13,2021,5,May,Product29,Category04,Lt,47,53.11,188,212.44
+"Saturday, June 5, 2021",P0035,10,Direct Sales,Online,0,5,2021,6,Jun,Product35,Category04,No.,5,6.7,50,67
+"Sunday, June 6, 2021",P0033,6,Direct Sales,Online,0,6,2021,6,Jun,Product33,Category04,Kg,95,119.7,570,718.2
+"Tuesday, June 8, 2021",P0028,11,Direct Sales,Online,0,8,2021,6,Jun,Product28,Category04,No.,37,41.81,407,459.91
+"Wednesday, July 21, 2021",P0029,15,Direct Sales,Online,0,21,2021,7,Jul,Product29,Category04,Lt,47,53.11,705,796.65
+"Thursday, August 5, 2021",P0028,14,Direct Sales,Cash,0,5,2021,8,Aug,Product28,Category04,No.,37,41.81,518,585.34
+"Friday, August 13, 2021",P0027,9,Direct Sales,Online,0,13,2021,8,Aug,Product27,Category04,Lt,48,57.12,432,514.08
+"Friday, August 20, 2021",P0031,9,Direct Sales,Online,0,20,2021,8,Aug,Product31,Category04,Kg,93,104.16,837,937.44
+"Friday, August 20, 2021",P0028,13,Direct Sales,Online,0,20,2021,8,Aug,Product28,Category04,No.,37,41.81,481,543.53
+"Tuesday, August 31, 2021",P0035,11,Direct Sales,Online,0,31,2021,8,Aug,Product35,Category04,No.,5,6.7,55,73.7
+"Saturday, September 4, 2021",P0028,7,Direct Sales,Online,0,4,2021,9,Sep,Product28,Category04,No.,37,41.81,259,292.67
+"Sunday, September 5, 2021",P0032,1,Direct Sales,Cash,0,5,2021,9,Sep,Product32,Category04,Kg,89,117.48,89,117.48
+"Friday, September 10, 2021",P0030,6,Direct Sales,Online,0,10,2021,9,Sep,Product30,Category04,Ft,148,201.28,888,1207.68
+"Friday, September 10, 2021",P0026,2,Direct Sales,Online,0,10,2021,9,Sep,Product26,Category04,No.,18,24.66,36,49.32
+"Monday, September 27, 2021",P0034,1,Direct Sales,Cash,0,27,2021,9,Sep,Product34,Category04,Lt,55,58.3,55,58.3
+"Wednesday, October 6, 2021",P0035,1,Direct Sales,Online,0,6,2021,10,Oct,Product35,Category04,No.,5,6.7,5,6.7
+"Thursday, October 7, 2021",P0026,6,Direct Sales,Cash,0,7,2021,10,Oct,Product26,Category04,No.,18,24.66,108,147.96
+"Sunday, October 10, 2021",P0035,14,Direct Sales,Cash,0,10,2021,10,Oct,Product35,Category04,No.,5,6.7,70,93.8
+"Saturday, November 6, 2021",P0036,10,Direct Sales,Online,0,6,2021,11,Nov,Product36,Category04,Kg,90,96.3,900,963
+"Monday, December 27, 2021",P0029,14,Direct Sales,Cash,0,27,2021,12,Dec,Product29,Category04,Lt,47,53.11,658,743.54
+"Tuesday, December 28, 2021",P0029,6,Direct Sales,Cash,0,28,2021,12,Dec,Product29,Category04,Lt,47,53.11,282,318.66
+"Sunday, January 2, 2022",P0033,1,Direct Sales,Cash,0,2,2022,1,Jan,Product33,Category04,Kg,95,119.7,95,119.7
+"Sunday, January 9, 2022",P0032,12,Direct Sales,Online,0,9,2022,1,Jan,Product32,Category04,Kg,89,117.48,1068,1409.76
+"Tuesday, January 11, 2022",P0032,2,Direct Sales,Online,0,11,2022,1,Jan,Product32,Category04,Kg,89,117.48,178,234.96
+"Monday, February 14, 2022",P0028,3,Direct Sales,Cash,0,14,2022,2,Feb,Product28,Category04,No.,37,41.81,111,125.43
+"Wednesday, February 23, 2022",P0036,8,Direct Sales,Online,0,23,2022,2,Feb,Product36,Category04,Kg,90,96.3,720,770.4
+"Wednesday, March 9, 2022",P0030,3,Direct Sales,Online,0,9,2022,3,Mar,Product30,Category04,Ft,148,201.28,444,603.84
+"Monday, March 14, 2022",P0026,13,Direct Sales,Online,0,14,2022,3,Mar,Product26,Category04,No.,18,24.66,234,320.58
+"Friday, March 18, 2022",P0027,10,Direct Sales,Cash,0,18,2022,3,Mar,Product27,Category04,Lt,48,57.12,480,571.2
+"Wednesday, March 23, 2022",P0032,9,Direct Sales,Cash,0,23,2022,3,Mar,Product32,Category04,Kg,89,117.48,801,1057.32
+"Friday, March 25, 2022",P0030,11,Direct Sales,Online,0,25,2022,3,Mar,Product30,Category04,Ft,148,201.28,1628,2214.08
+"Thursday, April 7, 2022",P0026,7,Direct Sales,Online,0,7,2022,4,Apr,Product26,Category04,No.,18,24.66,126,172.62
+"Thursday, April 21, 2022",P0030,2,Direct Sales,Cash,0,21,2022,4,Apr,Product30,Category04,Ft,148,201.28,296,402.56
+"Sunday, April 24, 2022",P0034,4,Direct Sales,Online,0,24,2022,4,Apr,Product34,Category04,Lt,55,58.3,220,233.2
+"Tuesday, April 26, 2022",P0027,2,Direct Sales,Cash,0,26,2022,4,Apr,Product27,Category04,Lt,48,57.12,96,114.24
+"Saturday, April 30, 2022",P0027,8,Direct Sales,Online,0,30,2022,4,Apr,Product27,Category04,Lt,48,57.12,384,456.96
+"Friday, May 6, 2022",P0034,7,Direct Sales,Online,0,6,2022,5,May,Product34,Category04,Lt,55,58.3,385,408.1
+"Tuesday, May 17, 2022",P0027,8,Direct Sales,Cash,0,17,2022,5,May,Product27,Category04,Lt,48,57.12,384,456.96
+"Thursday, May 26, 2022",P0028,2,Direct Sales,Online,0,26,2022,5,May,Product28,Category04,No.,37,41.81,74,83.62
+"Monday, June 13, 2022",P0026,6,Direct Sales,Cash,0,13,2022,6,Jun,Product26,Category04,No.,18,24.66,108,147.96
+"Sunday, June 26, 2022",P0034,4,Direct Sales,Cash,0,26,2022,6,Jun,Product34,Category04,Lt,55,58.3,220,233.2
+"Sunday, July 3, 2022",P0033,15,Direct Sales,Cash,0,3,2022,7,Jul,Product33,Category04,Kg,95,119.7,1425,1795.5
+"Tuesday, July 12, 2022",P0028,12,Direct Sales,Cash,0,12,2022,7,Jul,Product28,Category04,No.,37,41.81,444,501.72
+"Thursday, July 14, 2022",P0033,9,Direct Sales,Online,0,14,2022,7,Jul,Product33,Category04,Kg,95,119.7,855,1077.3
+"Friday, July 22, 2022",P0034,6,Direct Sales,Cash,0,22,2022,7,Jul,Product34,Category04,Lt,55,58.3,330,349.8
+"Monday, August 8, 2022",P0032,12,Direct Sales,Cash,0,8,2022,8,Aug,Product32,Category04,Kg,89,117.48,1068,1409.76
+"Sunday, August 14, 2022",P0030,14,Direct Sales,Cash,0,14,2022,8,Aug,Product30,Category04,Ft,148,201.28,2072,2817.92
+"Saturday, August 20, 2022",P0033,14,Direct Sales,Online,0,20,2022,8,Aug,Product33,Category04,Kg,95,119.7,1330,1675.8
+"Tuesday, August 23, 2022",P0029,14,Direct Sales,Cash,0,23,2022,8,Aug,Product29,Category04,Lt,47,53.11,658,743.54
+"Wednesday, September 14, 2022",P0029,3,Direct Sales,Cash,0,14,2022,9,Sep,Product29,Category04,Lt,47,53.11,141,159.33
+"Tuesday, September 20, 2022",P0033,6,Direct Sales,Online,0,20,2022,9,Sep,Product33,Category04,Kg,95,119.7,570,718.2
+"Wednesday, September 21, 2022",P0026,5,Direct Sales,Cash,0,21,2022,9,Sep,Product26,Category04,No.,18,24.66,90,123.3
+"Saturday, September 24, 2022",P0032,14,Direct Sales,Online,0,24,2022,9,Sep,Product32,Category04,Kg,89,117.48,1246,1644.72
+"Saturday, September 24, 2022",P0032,8,Direct Sales,Cash,0,24,2022,9,Sep,Product32,Category04,Kg,89,117.48,712,939.84
+"Tuesday, September 27, 2022",P0036,4,Direct Sales,Cash,0,27,2022,9,Sep,Product36,Category04,Kg,90,96.3,360,385.2
+"Thursday, September 29, 2022",P0034,13,Direct Sales,Online,0,29,2022,9,Sep,Product34,Category04,Lt,55,58.3,715,757.9
+"Thursday, October 6, 2022",P0035,1,Direct Sales,Online,0,6,2022,10,Oct,Product35,Category04,No.,5,6.7,5,6.7
+"Wednesday, November 2, 2022",P0030,15,Direct Sales,Cash,0,2,2022,11,Nov,Product30,Category04,Ft,148,201.28,2220,3019.2
+"Wednesday, November 2, 2022",P0035,5,Direct Sales,Cash,0,2,2022,11,Nov,Product35,Category04,No.,5,6.7,25,33.5
+"Friday, November 18, 2022",P0034,8,Direct Sales,Cash,0,18,2022,11,Nov,Product34,Category04,Lt,55,58.3,440,466.4
+"Saturday, November 26, 2022",P0032,5,Direct Sales,Online,0,26,2022,11,Nov,Product32,Category04,Kg,89,117.48,445,587.4
+"Sunday, November 27, 2022",P0034,15,Direct Sales,Online,0,27,2022,11,Nov,Product34,Category04,Lt,55,58.3,825,874.5
+"Monday, November 28, 2022",P0031,8,Direct Sales,Cash,0,28,2022,11,Nov,Product31,Category04,Kg,93,104.16,744,833.28
+"Sunday, December 4, 2022",P0026,10,Direct Sales,Cash,0,4,2022,12,Dec,Product26,Category04,No.,18,24.66,180,246.6
+"Sunday, December 11, 2022",P0027,5,Direct Sales,Online,0,11,2022,12,Dec,Product27,Category04,Lt,48,57.12,240,285.6
+"Saturday, January 2, 2021",P0013,6,Direct Sales,Cash,0,2,2021,1,Jan,Product13,Category02,Kg,112,122.08,672,732.48
+"Wednesday, February 3, 2021",P0016,13,Direct Sales,Online,0,3,2021,2,Feb,Product16,Category02,No.,13,16.64,169,216.32
+"Wednesday, March 3, 2021",P0011,1,Direct Sales,Online,0,3,2021,3,Mar,Product11,Category02,Lt,44,48.4,44,48.4
+"Tuesday, March 16, 2021",P0012,14,Direct Sales,Cash,0,16,2021,3,Mar,Product12,Category02,Kg,73,94.17,1022,1318.38
+"Friday, March 26, 2021",P0010,9,Direct Sales,Online,0,26,2021,3,Mar,Product10,Category02,Ft,148,164.28,1332,1478.52
+"Thursday, April 15, 2021",P0017,3,Direct Sales,Online,0,15,2021,4,Apr,Product17,Category02,Ft,134,156.78,402,470.34
+"Friday, April 16, 2021",P0018,15,Direct Sales,Cash,0,16,2021,4,Apr,Product18,Category02,No.,37,49.21,555,738.15
+"Sunday, April 18, 2021",P0019,13,Direct Sales,Cash,0,18,2021,4,Apr,Product19,Category02,Ft,150,210,1950,2730
+"Tuesday, May 4, 2021",P0014,4,Direct Sales,Cash,0,4,2021,5,May,Product14,Category02,Kg,112,146.72,448,586.88
+"Friday, May 7, 2021",P0018,1,Direct Sales,Cash,0,7,2021,5,May,Product18,Category02,No.,37,49.21,37,49.21
+"Wednesday, May 12, 2021",P0016,3,Direct Sales,Online,0,12,2021,5,May,Product16,Category02,No.,13,16.64,39,49.92
+"Wednesday, June 23, 2021",P0016,4,Direct Sales,Online,0,23,2021,6,Jun,Product16,Category02,No.,13,16.64,52,66.56
+"Thursday, June 24, 2021",P0011,13,Direct Sales,Online,0,24,2021,6,Jun,Product11,Category02,Lt,44,48.4,572,629.2
+"Tuesday, June 29, 2021",P0014,4,Direct Sales,Online,0,29,2021,6,Jun,Product14,Category02,Kg,112,146.72,448,586.88
+"Friday, July 2, 2021",P0010,11,Direct Sales,Cash,0,2,2021,7,Jul,Product10,Category02,Ft,148,164.28,1628,1807.08
+"Tuesday, July 13, 2021",P0019,1,Direct Sales,Cash,0,13,2021,7,Jul,Product19,Category02,Ft,150,210,150,210
+"Friday, August 13, 2021",P0011,13,Direct Sales,Online,0,13,2021,8,Aug,Product11,Category02,Lt,44,48.4,572,629.2
+"Monday, August 30, 2021",P0013,13,Direct Sales,Online,0,30,2021,8,Aug,Product13,Category02,Kg,112,122.08,1456,1587.04
+"Tuesday, September 7, 2021",P0019,5,Direct Sales,Online,0,7,2021,9,Sep,Product19,Category02,Ft,150,210,750,1050
+"Thursday, September 23, 2021",P0018,12,Direct Sales,Cash,0,23,2021,9,Sep,Product18,Category02,No.,37,49.21,444,590.52
+"Saturday, October 2, 2021",P0014,15,Direct Sales,Online,0,2,2021,10,Oct,Product14,Category02,Kg,112,146.72,1680,2200.8
+"Sunday, October 3, 2021",P0019,9,Direct Sales,Online,0,3,2021,10,Oct,Product19,Category02,Ft,150,210,1350,1890
+"Monday, October 11, 2021",P0011,15,Direct Sales,Cash,0,11,2021,10,Oct,Product11,Category02,Lt,44,48.4,660,726
+"Friday, October 22, 2021",P0011,7,Direct Sales,Cash,0,22,2021,10,Oct,Product11,Category02,Lt,44,48.4,308,338.8
+"Wednesday, November 3, 2021",P0013,12,Direct Sales,Cash,0,3,2021,11,Nov,Product13,Category02,Kg,112,122.08,1344,1464.96
+"Thursday, December 2, 2021",P0016,10,Direct Sales,Cash,0,2,2021,12,Dec,Product16,Category02,No.,13,16.64,130,166.4
+"Sunday, December 5, 2021",P0010,1,Direct Sales,Online,0,5,2021,12,Dec,Product10,Category02,Ft,148,164.28,148,164.28
+"Tuesday, December 7, 2021",P0013,8,Direct Sales,Online,0,7,2021,12,Dec,Product13,Category02,Kg,112,122.08,896,976.64
+"Monday, December 20, 2021",P0012,14,Direct Sales,Online,0,20,2021,12,Dec,Product12,Category02,Kg,73,94.17,1022,1318.38
+"Sunday, January 2, 2022",P0010,7,Direct Sales,Cash,0,2,2022,1,Jan,Product10,Category02,Ft,148,164.28,1036,1149.96
+"Tuesday, January 4, 2022",P0012,8,Direct Sales,Online,0,4,2022,1,Jan,Product12,Category02,Kg,73,94.17,584,753.36
+"Friday, January 14, 2022",P0011,14,Direct Sales,Online,0,14,2022,1,Jan,Product11,Category02,Lt,44,48.4,616,677.6
+"Tuesday, January 25, 2022",P0017,14,Direct Sales,Cash,0,25,2022,1,Jan,Product17,Category02,Ft,134,156.78,1876,2194.92
+"Friday, January 28, 2022",P0016,11,Direct Sales,Online,0,28,2022,1,Jan,Product16,Category02,No.,13,16.64,143,183.04
+"Thursday, February 3, 2022",P0014,8,Direct Sales,Online,0,3,2022,2,Feb,Product14,Category02,Kg,112,146.72,896,1173.76
+"Saturday, February 5, 2022",P0018,6,Direct Sales,Cash,0,5,2022,2,Feb,Product18,Category02,No.,37,49.21,222,295.26
+"Saturday, February 12, 2022",P0010,13,Direct Sales,Cash,0,12,2022,2,Feb,Product10,Category02,Ft,148,164.28,1924,2135.64
+"Sunday, February 20, 2022",P0012,6,Direct Sales,Cash,0,20,2022,2,Feb,Product12,Category02,Kg,73,94.17,438,565.02
+"Sunday, February 27, 2022",P0012,7,Direct Sales,Cash,0,27,2022,2,Feb,Product12,Category02,Kg,73,94.17,511,659.19
+"Monday, March 14, 2022",P0016,2,Direct Sales,Cash,0,14,2022,3,Mar,Product16,Category02,No.,13,16.64,26,33.28
+"Wednesday, April 20, 2022",P0012,4,Direct Sales,Online,0,20,2022,4,Apr,Product12,Category02,Kg,73,94.17,292,376.68
+"Thursday, April 28, 2022",P0014,14,Direct Sales,Cash,0,28,2022,4,Apr,Product14,Category02,Kg,112,146.72,1568,2054.08
+"Friday, May 13, 2022",P0012,5,Direct Sales,Online,0,13,2022,5,May,Product12,Category02,Kg,73,94.17,365,470.85
+"Monday, May 16, 2022",P0010,13,Direct Sales,Cash,0,16,2022,5,May,Product10,Category02,Ft,148,164.28,1924,2135.64
+"Sunday, May 22, 2022",P0015,12,Direct Sales,Online,0,22,2022,5,May,Product15,Category02,No.,12,15.72,144,188.64
+"Tuesday, June 21, 2022",P0017,14,Direct Sales,Cash,0,21,2022,6,Jun,Product17,Category02,Ft,134,156.78,1876,2194.92
+"Friday, June 24, 2022",P0018,7,Direct Sales,Cash,0,24,2022,6,Jun,Product18,Category02,No.,37,49.21,259,344.47
+"Tuesday, July 5, 2022",P0015,8,Direct Sales,Online,0,5,2022,7,Jul,Product15,Category02,No.,12,15.72,96,125.76
+"Friday, July 8, 2022",P0018,2,Direct Sales,Online,0,8,2022,7,Jul,Product18,Category02,No.,37,49.21,74,98.42
+"Monday, July 18, 2022",P0010,12,Direct Sales,Online,0,18,2022,7,Jul,Product10,Category02,Ft,148,164.28,1776,1971.36
+"Monday, July 25, 2022",P0017,12,Direct Sales,Cash,0,25,2022,7,Jul,Product17,Category02,Ft,134,156.78,1608,1881.36
+"Wednesday, August 3, 2022",P0012,5,Direct Sales,Cash,0,3,2022,8,Aug,Product12,Category02,Kg,73,94.17,365,470.85
+"Monday, August 8, 2022",P0016,2,Direct Sales,Online,0,8,2022,8,Aug,Product16,Category02,No.,13,16.64,26,33.28
+"Monday, August 15, 2022",P0015,7,Direct Sales,Online,0,15,2022,8,Aug,Product15,Category02,No.,12,15.72,84,110.04
+"Sunday, August 21, 2022",P0016,4,Direct Sales,Online,0,21,2022,8,Aug,Product16,Category02,No.,13,16.64,52,66.56
+"Wednesday, August 31, 2022",P0015,13,Direct Sales,Cash,0,31,2022,8,Aug,Product15,Category02,No.,12,15.72,156,204.36
+"Friday, September 23, 2022",P0012,12,Direct Sales,Online,0,23,2022,9,Sep,Product12,Category02,Kg,73,94.17,876,1130.04
+"Monday, October 3, 2022",P0011,5,Direct Sales,Cash,0,3,2022,10,Oct,Product11,Category02,Lt,44,48.4,220,242
+"Monday, October 10, 2022",P0019,9,Direct Sales,Online,0,10,2022,10,Oct,Product19,Category02,Ft,150,210,1350,1890
+"Saturday, October 15, 2022",P0015,10,Direct Sales,Cash,0,15,2022,10,Oct,Product15,Category02,No.,12,15.72,120,157.2
+"Saturday, November 5, 2022",P0019,15,Direct Sales,Cash,0,5,2022,11,Nov,Product19,Category02,Ft,150,210,2250,3150
+"Thursday, November 10, 2022",P0018,7,Direct Sales,Online,0,10,2022,11,Nov,Product18,Category02,No.,37,49.21,259,344.47
+"Tuesday, November 15, 2022",P0012,14,Direct Sales,Cash,0,15,2022,11,Nov,Product12,Category02,Kg,73,94.17,1022,1318.38
+"Wednesday, November 30, 2022",P0015,2,Direct Sales,Online,0,30,2022,11,Nov,Product15,Category02,No.,12,15.72,24,31.44
+"Wednesday, December 7, 2022",P0016,13,Direct Sales,Online,0,7,2022,12,Dec,Product16,Category02,No.,13,16.64,169,216.32
+"Monday, December 19, 2022",P0011,14,Direct Sales,Cash,0,19,2022,12,Dec,Product11,Category02,Lt,44,48.4,616,677.6
+"Saturday, January 9, 2021",P0003,8,Direct Sales,Cash,0,9,2021,1,Jan,Product03,Category01,Kg,71,80.94,568,647.52
+"Thursday, January 21, 2021",P0003,9,Direct Sales,Online,0,21,2021,1,Jan,Product03,Category01,Kg,71,80.94,639,728.46
+"Sunday, January 3, 2021",P0004,5,Direct Sales,Online,0,3,2021,1,Jan,Product04,Category01,Lt,44,48.84,220,244.2
+"Friday, February 5, 2021",P0005,1,Direct Sales,Cash,0,5,2021,2,Feb,Product05,Category01,Ft,133,155.61,133,155.61
+"Saturday, January 9, 2021",P0025,4,Direct Sales,Online,0,9,2021,1,Jan,Product25,Category03,No.,7,8.33,28,33.32
+"Tuesday, February 23, 2021",P0025,3,Direct Sales,Cash,0,23,2021,2,Feb,Product25,Category03,No.,7,8.33,21,24.99
+"Friday, February 12, 2021",P0008,7,Direct Sales,Cash,0,12,2021,2,Feb,Product08,Category01,Kg,83,94.62,581,662.34
+"Monday, January 11, 2021",P0037,3,Direct Sales,Cash,0,11,2021,1,Jan,Product37,Category05,Kg,67,85.76,201,257.28
+"Monday, January 11, 2021",P0042,4,Direct Sales,Online,0,11,2021,1,Jan,Product42,Category05,Ft,120,162,480,648
+"Thursday, January 21, 2021",P0042,6,Direct Sales,Online,0,21,2021,1,Jan,Product42,Category05,Ft,120,162,720,972
+"Monday, January 18, 2021",P0044,13,Direct Sales,Online,0,18,2021,1,Jan,Product44,Category05,Kg,76,82.08,988,1067.04
+"Wednesday, January 20, 2021",P0020,4,Direct Sales,Cash,0,20,2021,1,Jan,Product20,Category03,Lt,61,76.25,244,305
+"Friday, February 5, 2021",P0043,9,Direct Sales,Cash,0,5,2021,2,Feb,Product43,Category05,Kg,67,83.08,603,747.72
+"Tuesday, February 23, 2021",P0005,2,Direct Sales,Online,0,23,2021,2,Feb,Product05,Category01,Ft,133,155.61,266,311.22
+"Sunday, March 7, 2021",P0021,9,Direct Sales,Cash,0,7,2021,3,Mar,Product21,Category03,Ft,126,162.54,1134,1462.86
+"Thursday, March 11, 2021",P0025,11,Direct Sales,Cash,0,11,2021,3,Mar,Product25,Category03,No.,7,8.33,77,91.63
+"Sunday, March 21, 2021",P0039,7,Direct Sales,Online,0,21,2021,3,Mar,Product39,Category05,No.,37,42.55,259,297.85
+"Thursday, March 25, 2021",P0006,4,Direct Sales,Cash,0,25,2021,3,Mar,Product06,Category01,Kg,75,85.5,300,342
+"Thursday, March 25, 2021",P0038,2,Direct Sales,Online,0,25,2021,3,Mar,Product38,Category05,Kg,72,79.92,144,159.84
+"Friday, March 26, 2021",P0001,4,Direct Sales,Cash,0,26,2021,3,Mar,Product01,Category01,Kg,98,103.88,392,415.52
+"Friday, March 26, 2021",P0042,1,Direct Sales,Cash,0,26,2021,3,Mar,Product42,Category05,Ft,120,162,120,162
+"Wednesday, March 31, 2021",P0042,3,Direct Sales,Cash,0,31,2021,3,Mar,Product42,Category05,Ft,120,162,360,486
+"Sunday, April 4, 2021",P0040,4,Direct Sales,Cash,0,4,2021,4,Apr,Product40,Category05,Kg,90,115.2,360,460.8
+"Saturday, April 10, 2021",P0022,14,Direct Sales,Online,0,10,2021,4,Apr,Product22,Category03,Ft,121,141.57,1694,1981.98
+"Monday, April 12, 2021",P0037,3,Direct Sales,Cash,0,12,2021,4,Apr,Product37,Category05,Kg,67,85.76,201,257.28
+"Friday, April 23, 2021",P0042,6,Direct Sales,Online,0,23,2021,4,Apr,Product42,Category05,Ft,120,162,720,972
+"Monday, April 26, 2021",P0037,3,Direct Sales,Online,0,26,2021,4,Apr,Product37,Category05,Kg,67,85.76,201,257.28
+"Wednesday, May 5, 2021",P0009,13,Direct Sales,Cash,0,5,2021,5,May,Product09,Category01,No.,6,7.86,78,102.18
+"Thursday, May 6, 2021",P0008,15,Direct Sales,Online,0,6,2021,5,May,Product08,Category01,Kg,83,94.62,1245,1419.3
+"Sunday, May 23, 2021",P0040,11,Direct Sales,Online,0,23,2021,5,May,Product40,Category05,Kg,90,115.2,990,1267.2
+"Thursday, June 3, 2021",P0021,10,Direct Sales,Cash,0,3,2021,6,Jun,Product21,Category03,Ft,126,162.54,1260,1625.4
+"Wednesday, June 9, 2021",P0001,7,Direct Sales,Online,0,9,2021,6,Jun,Product01,Category01,Kg,98,103.88,686,727.16
+"Saturday, June 12, 2021",P0041,6,Direct Sales,Online,0,12,2021,6,Jun,Product41,Category05,Ft,138,173.88,828,1043.28
+"Wednesday, June 16, 2021",P0039,11,Direct Sales,Cash,0,16,2021,6,Jun,Product39,Category05,No.,37,42.55,407,468.05
+"Friday, June 18, 2021",P0025,13,Direct Sales,Cash,0,18,2021,6,Jun,Product25,Category03,No.,7,8.33,91,108.29
+"Saturday, June 19, 2021",P0041,5,Direct Sales,Online,0,19,2021,6,Jun,Product41,Category05,Ft,138,173.88,690,869.4
+"Sunday, June 27, 2021",P0005,11,Direct Sales,Cash,0,27,2021,6,Jun,Product05,Category01,Ft,133,155.61,1463,1711.71
+"Thursday, July 1, 2021",P0005,11,Direct Sales,Cash,0,1,2021,7,Jul,Product05,Category01,Ft,133,155.61,1463,1711.71
+"Monday, July 5, 2021",P0002,8,Direct Sales,Online,0,5,2021,7,Jul,Product02,Category01,Kg,105,142.8,840,1142.4
+"Tuesday, July 6, 2021",P0041,15,Direct Sales,Cash,0,6,2021,7,Jul,Product41,Category05,Ft,138,173.88,2070,2608.2
+"Thursday, July 8, 2021",P0004,10,Direct Sales,Online,0,8,2021,7,Jul,Product04,Category01,Lt,44,48.84,440,488.4
+"Tuesday, July 20, 2021",P0043,5,Direct Sales,Online,0,20,2021,7,Jul,Product43,Category05,Kg,67,83.08,335,415.4
+"Friday, July 23, 2021",P0037,8,Direct Sales,Online,0,23,2021,7,Jul,Product37,Category05,Kg,67,85.76,536,686.08
+"Sunday, August 1, 2021",P0001,11,Direct Sales,Cash,0,1,2021,8,Aug,Product01,Category01,Kg,98,103.88,1078,1142.68
+"Monday, August 2, 2021",P0023,3,Direct Sales,Online,0,2,2021,8,Aug,Product23,Category03,Ft,141,149.46,423,448.38
+"Tuesday, August 10, 2021",P0006,6,Direct Sales,Cash,0,10,2021,8,Aug,Product06,Category01,Kg,75,85.5,450,513
+"Wednesday, August 11, 2021",P0023,4,Direct Sales,Online,0,11,2021,8,Aug,Product23,Category03,Ft,141,149.46,564,597.84
+"Wednesday, August 18, 2021",P0025,6,Direct Sales,Online,0,18,2021,8,Aug,Product25,Category03,No.,7,8.33,42,49.98
+"Friday, August 20, 2021",P0020,15,Direct Sales,Cash,0,20,2021,8,Aug,Product20,Category03,Lt,61,76.25,915,1143.75
+"Thursday, August 26, 2021",P0039,4,Direct Sales,Online,0,26,2021,8,Aug,Product39,Category05,No.,37,42.55,148,170.2
+"Tuesday, August 31, 2021",P0001,2,Direct Sales,Online,0,31,2021,8,Aug,Product01,Category01,Kg,98,103.88,196,207.76
+"Friday, September 3, 2021",P0041,8,Direct Sales,Online,0,3,2021,9,Sep,Product41,Category05,Ft,138,173.88,1104,1391.04
+"Saturday, September 4, 2021",P0023,15,Direct Sales,Online,0,4,2021,9,Sep,Product23,Category03,Ft,141,149.46,2115,2241.9
+"Thursday, September 9, 2021",P0044,4,Direct Sales,Online,0,9,2021,9,Sep,Product44,Category05,Kg,76,82.08,304,328.32
+"Monday, September 13, 2021",P0041,7,Direct Sales,Cash,0,13,2021,9,Sep,Product41,Category05,Ft,138,173.88,966,1217.16
+"Wednesday, September 15, 2021",P0042,6,Direct Sales,Online,0,15,2021,9,Sep,Product42,Category05,Ft,120,162,720,972
+"Wednesday, September 15, 2021",P0042,14,Direct Sales,Online,0,15,2021,9,Sep,Product42,Category05,Ft,120,162,1680,2268
+"Wednesday, September 22, 2021",P0002,4,Direct Sales,Cash,0,22,2021,9,Sep,Product02,Category01,Kg,105,142.8,420,571.2
+"Saturday, October 9, 2021",P0038,5,Direct Sales,Cash,0,9,2021,10,Oct,Product38,Category05,Kg,72,79.92,360,399.6
+"Sunday, October 17, 2021",P0001,13,Direct Sales,Online,0,17,2021,10,Oct,Product01,Category01,Kg,98,103.88,1274,1350.44
+"Friday, October 22, 2021",P0009,1,Direct Sales,Cash,0,22,2021,10,Oct,Product09,Category01,No.,6,7.86,6,7.86
+"Thursday, October 28, 2021",P0008,1,Direct Sales,Cash,0,28,2021,10,Oct,Product08,Category01,Kg,83,94.62,83,94.62
+"Monday, November 8, 2021",P0007,15,Direct Sales,Online,0,8,2021,11,Nov,Product07,Category01,Lt,43,47.73,645,715.95
+"Sunday, November 28, 2021",P0040,2,Direct Sales,Cash,0,28,2021,11,Nov,Product40,Category05,Kg,90,115.2,180,230.4
+"Tuesday, November 30, 2021",P0039,15,Direct Sales,Online,0,30,2021,11,Nov,Product39,Category05,No.,37,42.55,555,638.25
+"Sunday, December 5, 2021",P0004,15,Direct Sales,Cash,0,5,2021,12,Dec,Product04,Category01,Lt,44,48.84,660,732.6
+"Wednesday, December 8, 2021",P0044,14,Direct Sales,Online,0,8,2021,12,Dec,Product44,Category05,Kg,76,82.08,1064,1149.12
+"Tuesday, December 14, 2021",P0042,4,Direct Sales,Online,0,14,2021,12,Dec,Product42,Category05,Ft,120,162,480,648
+"Saturday, December 18, 2021",P0003,2,Direct Sales,Cash,0,18,2021,12,Dec,Product03,Category01,Kg,71,80.94,142,161.88
+"Sunday, December 19, 2021",P0023,12,Direct Sales,Online,0,19,2021,12,Dec,Product23,Category03,Ft,141,149.46,1692,1793.52
+"Monday, January 3, 2022",P0043,9,Direct Sales,Cash,0,3,2022,1,Jan,Product43,Category05,Kg,67,83.08,603,747.72
+"Saturday, January 15, 2022",P0022,10,Direct Sales,Cash,0,15,2022,1,Jan,Product22,Category03,Ft,121,141.57,1210,1415.7
+"Thursday, January 20, 2022",P0021,2,Direct Sales,Cash,0,20,2022,1,Jan,Product21,Category03,Ft,126,162.54,252,325.08
+"Sunday, January 23, 2022",P0042,8,Direct Sales,Online,0,23,2022,1,Jan,Product42,Category05,Ft,120,162,960,1296
+"Monday, January 31, 2022",P0041,9,Direct Sales,Cash,0,31,2022,1,Jan,Product41,Category05,Ft,138,173.88,1242,1564.92
+"Tuesday, February 1, 2022",P0005,9,Direct Sales,Cash,0,1,2022,2,Feb,Product05,Category01,Ft,133,155.61,1197,1400.49
+"Sunday, February 6, 2022",P0002,6,Direct Sales,Cash,0,6,2022,2,Feb,Product02,Category01,Kg,105,142.8,630,856.8
+"Sunday, February 27, 2022",P0005,15,Direct Sales,Online,0,27,2022,2,Feb,Product05,Category01,Ft,133,155.61,1995,2334.15
+"Monday, February 28, 2022",P0037,15,Direct Sales,Cash,0,28,2022,2,Feb,Product37,Category05,Kg,67,85.76,1005,1286.4
+"Sunday, March 6, 2022",P0004,2,Direct Sales,Cash,0,6,2022,3,Mar,Product04,Category01,Lt,44,48.84,88,97.68
+"Monday, March 7, 2022",P0003,1,Direct Sales,Cash,0,7,2022,3,Mar,Product03,Category01,Kg,71,80.94,71,80.94
+"Tuesday, March 8, 2022",P0044,6,Direct Sales,Online,0,8,2022,3,Mar,Product44,Category05,Kg,76,82.08,456,492.48
+"Saturday, April 2, 2022",P0002,3,Direct Sales,Cash,0,2,2022,4,Apr,Product02,Category01,Kg,105,142.8,315,428.4
+"Monday, April 18, 2022",P0041,9,Direct Sales,Cash,0,18,2022,4,Apr,Product41,Category05,Ft,138,173.88,1242,1564.92
+"Monday, April 25, 2022",P0004,9,Direct Sales,Cash,0,25,2022,4,Apr,Product04,Category01,Lt,44,48.84,396,439.56
+"Wednesday, May 4, 2022",P0020,10,Direct Sales,Online,0,4,2022,5,May,Product20,Category03,Lt,61,76.25,610,762.5
+"Tuesday, May 10, 2022",P0009,6,Direct Sales,Online,0,10,2022,5,May,Product09,Category01,No.,6,7.86,36,47.16
+"Saturday, May 14, 2022",P0008,14,Direct Sales,Cash,0,14,2022,5,May,Product08,Category01,Kg,83,94.62,1162,1324.68
+"Saturday, May 28, 2022",P0020,14,Direct Sales,Cash,0,28,2022,5,May,Product20,Category03,Lt,61,76.25,854,1067.5
+"Monday, May 30, 2022",P0044,9,Direct Sales,Online,0,30,2022,5,May,Product44,Category05,Kg,76,82.08,684,738.72
+"Saturday, June 11, 2022",P0021,6,Direct Sales,Online,0,11,2022,6,Jun,Product21,Category03,Ft,126,162.54,756,975.24
+"Sunday, June 19, 2022",P0002,8,Direct Sales,Cash,0,19,2022,6,Jun,Product02,Category01,Kg,105,142.8,840,1142.4
+"Wednesday, June 22, 2022",P0001,4,Direct Sales,Cash,0,22,2022,6,Jun,Product01,Category01,Kg,98,103.88,392,415.52
+"Thursday, June 23, 2022",P0004,8,Direct Sales,Online,0,23,2022,6,Jun,Product04,Category01,Lt,44,48.84,352,390.72
+"Sunday, June 26, 2022",P0043,12,Direct Sales,Online,0,26,2022,6,Jun,Product43,Category05,Kg,67,83.08,804,996.96
+"Monday, July 4, 2022",P0007,7,Direct Sales,Online,0,4,2022,7,Jul,Product07,Category01,Lt,43,47.73,301,334.11
+"Wednesday, July 6, 2022",P0041,2,Direct Sales,Cash,0,6,2022,7,Jul,Product41,Category05,Ft,138,173.88,276,347.76
+"Wednesday, July 13, 2022",P0025,7,Direct Sales,Online,0,13,2022,7,Jul,Product25,Category03,No.,7,8.33,49,58.31
+"Sunday, July 24, 2022",P0006,14,Direct Sales,Cash,0,24,2022,7,Jul,Product06,Category01,Kg,75,85.5,1050,1197
+"Monday, July 25, 2022",P0044,2,Direct Sales,Cash,0,25,2022,7,Jul,Product44,Category05,Kg,76,82.08,152,164.16
+"Monday, August 8, 2022",P0021,11,Direct Sales,Cash,0,8,2022,8,Aug,Product21,Category03,Ft,126,162.54,1386,1787.94
+"Saturday, August 20, 2022",P0023,13,Direct Sales,Online,0,20,2022,8,Aug,Product23,Category03,Ft,141,149.46,1833,1942.98
+"Wednesday, August 24, 2022",P0005,5,Direct Sales,Cash,0,24,2022,8,Aug,Product05,Category01,Ft,133,155.61,665,778.05
+"Sunday, August 28, 2022",P0039,5,Direct Sales,Online,0,28,2022,8,Aug,Product39,Category05,No.,37,42.55,185,212.75
+"Tuesday, August 30, 2022",P0043,6,Direct Sales,Cash,0,30,2022,8,Aug,Product43,Category05,Kg,67,83.08,402,498.48
+"Tuesday, August 30, 2022",P0025,5,Direct Sales,Cash,0,30,2022,8,Aug,Product25,Category03,No.,7,8.33,35,41.65
+"Sunday, September 4, 2022",P0002,1,Direct Sales,Cash,0,4,2022,9,Sep,Product02,Category01,Kg,105,142.8,105,142.8
+"Friday, September 9, 2022",P0041,9,Direct Sales,Online,0,9,2022,9,Sep,Product41,Category05,Ft,138,173.88,1242,1564.92
+"Friday, September 9, 2022",P0003,3,Direct Sales,Online,0,9,2022,9,Sep,Product03,Category01,Kg,71,80.94,213,242.82
+"Saturday, September 10, 2022",P0038,4,Direct Sales,Cash,0,10,2022,9,Sep,Product38,Category05,Kg,72,79.92,288,319.68
+"Tuesday, September 20, 2022",P0001,10,Direct Sales,Online,0,20,2022,9,Sep,Product01,Category01,Kg,98,103.88,980,1038.8
+"Tuesday, September 27, 2022",P0044,9,Direct Sales,Cash,0,27,2022,9,Sep,Product44,Category05,Kg,76,82.08,684,738.72
+"Tuesday, October 4, 2022",P0007,15,Direct Sales,Online,0,4,2022,10,Oct,Product07,Category01,Lt,43,47.73,645,715.95
+"Tuesday, October 11, 2022",P0008,10,Direct Sales,Online,0,11,2022,10,Oct,Product08,Category01,Kg,83,94.62,830,946.2
+"Sunday, October 30, 2022",P0042,3,Direct Sales,Cash,0,30,2022,10,Oct,Product42,Category05,Ft,120,162,360,486
+"Monday, October 31, 2022",P0038,8,Direct Sales,Online,0,31,2022,10,Oct,Product38,Category05,Kg,72,79.92,576,639.36
+"Friday, November 4, 2022",P0008,10,Direct Sales,Online,0,4,2022,11,Nov,Product08,Category01,Kg,83,94.62,830,946.2
+"Sunday, November 6, 2022",P0043,13,Direct Sales,Cash,0,6,2022,11,Nov,Product43,Category05,Kg,67,83.08,871,1080.04
+"Sunday, November 6, 2022",P0042,13,Direct Sales,Cash,0,6,2022,11,Nov,Product42,Category05,Ft,120,162,1560,2106
+"Monday, November 14, 2022",P0002,1,Direct Sales,Cash,0,14,2022,11,Nov,Product02,Category01,Kg,105,142.8,105,142.8
+"Monday, November 21, 2022",P0020,6,Direct Sales,Cash,0,21,2022,11,Nov,Product20,Category03,Lt,61,76.25,366,457.5
+"Friday, November 25, 2022",P0004,5,Direct Sales,Cash,0,25,2022,11,Nov,Product04,Category01,Lt,44,48.84,220,244.2
+"Sunday, December 4, 2022",P0044,15,Direct Sales,Cash,0,4,2022,12,Dec,Product44,Category05,Kg,76,82.08,1140,1231.2
+"Wednesday, December 7, 2022",P0038,12,Direct Sales,Cash,0,7,2022,12,Dec,Product38,Category05,Kg,72,79.92,864,959.04
+"Wednesday, December 7, 2022",P0038,5,Direct Sales,Cash,0,7,2022,12,Dec,Product38,Category05,Kg,72,79.92,360,399.6
+"Wednesday, December 14, 2022",P0005,4,Direct Sales,Cash,0,14,2022,12,Dec,Product05,Category01,Ft,133,155.61,532,622.44
+"Thursday, December 15, 2022",P0009,13,Direct Sales,Online,0,15,2022,12,Dec,Product09,Category01,No.,6,7.86,78,102.18
+"Monday, December 19, 2022",P0044,7,Direct Sales,Online,0,19,2022,12,Dec,Product44,Category05,Kg,76,82.08,532,574.56
+"Wednesday, December 21, 2022",P0006,10,Direct Sales,Online,0,21,2022,12,Dec,Product06,Category01,Kg,75,85.5,750,855
+"Thursday, December 29, 2022",P0008,15,Direct Sales,Online,0,29,2022,12,Dec,Product08,Category01,Kg,83,94.62,1245,1419.3
+"Friday, December 30, 2022",P0041,14,Direct Sales,Online,0,30,2022,12,Dec,Product41,Category05,Ft,138,173.88,1932,2434.32
+"Thursday, January 28, 2021",P0004,10,Online,Cash,0,28,2021,1,Jan,Product04,Category01,Lt,44,48.84,440,488.4
+"Monday, January 4, 2021",P0035,12,Online,Online,0,4,2021,1,Jan,Product35,Category04,No.,5,6.7,60,80.4
+"Tuesday, February 2, 2021",P0010,7,Online,Online,0,2,2021,2,Feb,Product10,Category02,Ft,148,164.28,1036,1149.96
+"Tuesday, January 12, 2021",P0042,10,Online,Cash,0,12,2021,1,Jan,Product42,Category05,Ft,120,162,1200,1620
+"Monday, January 18, 2021",P0023,3,Online,Cash,0,18,2021,1,Jan,Product23,Category03,Ft,141,149.46,423,448.38
+"Friday, February 12, 2021",P0023,9,Online,Cash,0,12,2021,2,Feb,Product23,Category03,Ft,141,149.46,1269,1345.14
+"Thursday, February 18, 2021",P0015,6,Online,Cash,0,18,2021,2,Feb,Product15,Category02,No.,12,15.72,72,94.32
+"Saturday, February 20, 2021",P0030,11,Online,Cash,0,20,2021,2,Feb,Product30,Category04,Ft,148,201.28,1628,2214.08
+"Monday, March 8, 2021",P0027,6,Online,Cash,0,8,2021,3,Mar,Product27,Category04,Lt,48,57.12,288,342.72
+"Monday, March 15, 2021",P0039,11,Online,Cash,0,15,2021,3,Mar,Product39,Category05,No.,37,42.55,407,468.05
+"Friday, March 19, 2021",P0028,9,Online,Cash,0,19,2021,3,Mar,Product28,Category04,No.,37,41.81,333,376.29
+"Sunday, March 21, 2021",P0020,13,Online,Online,0,21,2021,3,Mar,Product20,Category03,Lt,61,76.25,793,991.25
+"Thursday, March 25, 2021",P0024,14,Online,Cash,0,25,2021,3,Mar,Product24,Category03,Ft,144,156.96,2016,2197.44
+"Sunday, March 28, 2021",P0007,8,Online,Cash,0,28,2021,3,Mar,Product07,Category01,Lt,43,47.73,344,381.84
+"Sunday, April 4, 2021",P0009,9,Online,Cash,0,4,2021,4,Apr,Product09,Category01,No.,6,7.86,54,70.74
+"Friday, April 9, 2021",P0005,3,Online,Online,0,9,2021,4,Apr,Product05,Category01,Ft,133,155.61,399,466.83
+"Saturday, April 24, 2021",P0030,2,Online,Online,0,24,2021,4,Apr,Product30,Category04,Ft,148,201.28,296,402.56
+"Saturday, May 1, 2021",P0018,3,Online,Cash,0,1,2021,5,May,Product18,Category02,No.,37,49.21,111,147.63
+"Saturday, May 1, 2021",P0042,1,Online,Cash,0,1,2021,5,May,Product42,Category05,Ft,120,162,120,162
+"Monday, May 3, 2021",P0034,3,Online,Online,0,3,2021,5,May,Product34,Category04,Lt,55,58.3,165,174.9
+"Tuesday, May 4, 2021",P0015,13,Online,Online,0,4,2021,5,May,Product15,Category02,No.,12,15.72,156,204.36
+"Thursday, May 6, 2021",P0009,6,Online,Online,0,6,2021,5,May,Product09,Category01,No.,6,7.86,36,47.16
+"Sunday, May 9, 2021",P0016,6,Online,Online,0,9,2021,5,May,Product16,Category02,No.,13,16.64,78,99.84
+"Thursday, May 20, 2021",P0042,2,Online,Cash,0,20,2021,5,May,Product42,Category05,Ft,120,162,240,324
+"Sunday, May 30, 2021",P0023,13,Online,Online,0,30,2021,5,May,Product23,Category03,Ft,141,149.46,1833,1942.98
+"Friday, June 4, 2021",P0020,12,Online,Cash,0,4,2021,6,Jun,Product20,Category03,Lt,61,76.25,732,915
+"Monday, June 14, 2021",P0025,10,Online,Cash,0,14,2021,6,Jun,Product25,Category03,No.,7,8.33,70,83.3
+"Wednesday, June 16, 2021",P0015,12,Online,Cash,0,16,2021,6,Jun,Product15,Category02,No.,12,15.72,144,188.64
+"Saturday, June 26, 2021",P0009,7,Online,Online,0,26,2021,6,Jun,Product09,Category01,No.,6,7.86,42,55.02
+"Monday, June 28, 2021",P0021,2,Online,Cash,0,28,2021,6,Jun,Product21,Category03,Ft,126,162.54,252,325.08
+"Monday, June 28, 2021",P0035,7,Online,Online,0,28,2021,6,Jun,Product35,Category04,No.,5,6.7,35,46.9
+"Sunday, July 18, 2021",P0027,14,Online,Online,0,18,2021,7,Jul,Product27,Category04,Lt,48,57.12,672,799.68
+"Thursday, July 22, 2021",P0024,14,Online,Cash,0,22,2021,7,Jul,Product24,Category03,Ft,144,156.96,2016,2197.44
+"Saturday, July 24, 2021",P0009,4,Online,Cash,0,24,2021,7,Jul,Product09,Category01,No.,6,7.86,24,31.44
+"Tuesday, August 3, 2021",P0022,13,Online,Online,0,3,2021,8,Aug,Product22,Category03,Ft,121,141.57,1573,1840.41
+"Tuesday, August 3, 2021",P0034,12,Online,Online,0,3,2021,8,Aug,Product34,Category04,Lt,55,58.3,660,699.6
+"Thursday, September 23, 2021",P0021,7,Online,Online,0,23,2021,9,Sep,Product21,Category03,Ft,126,162.54,882,1137.78
+"Friday, October 1, 2021",P0030,14,Online,Cash,0,1,2021,10,Oct,Product30,Category04,Ft,148,201.28,2072,2817.92
+"Tuesday, October 12, 2021",P0027,8,Online,Online,0,12,2021,10,Oct,Product27,Category04,Lt,48,57.12,384,456.96
+"Monday, October 18, 2021",P0025,6,Online,Cash,0,18,2021,10,Oct,Product25,Category03,No.,7,8.33,42,49.98
+"Monday, October 18, 2021",P0021,13,Online,Cash,0,18,2021,10,Oct,Product21,Category03,Ft,126,162.54,1638,2113.02
+"Friday, October 22, 2021",P0024,13,Online,Cash,0,22,2021,10,Oct,Product24,Category03,Ft,144,156.96,1872,2040.48
+"Sunday, October 31, 2021",P0021,6,Online,Cash,0,31,2021,10,Oct,Product21,Category03,Ft,126,162.54,756,975.24
+"Wednesday, November 10, 2021",P0042,6,Online,Cash,0,10,2021,11,Nov,Product42,Category05,Ft,120,162,720,972
+"Friday, November 12, 2021",P0010,3,Online,Cash,0,12,2021,11,Nov,Product10,Category02,Ft,148,164.28,444,492.84
+"Saturday, November 20, 2021",P0034,14,Online,Online,0,20,2021,11,Nov,Product34,Category04,Lt,55,58.3,770,816.2
+"Friday, December 3, 2021",P0034,2,Online,Cash,0,3,2021,12,Dec,Product34,Category04,Lt,55,58.3,110,116.6
+"Friday, December 3, 2021",P0019,8,Online,Online,0,3,2021,12,Dec,Product19,Category02,Ft,150,210,1200,1680
+"Saturday, December 18, 2021",P0022,8,Online,Cash,0,18,2021,12,Dec,Product22,Category03,Ft,121,141.57,968,1132.56
+"Sunday, December 19, 2021",P0011,10,Online,Online,0,19,2021,12,Dec,Product11,Category02,Lt,44,48.4,440,484
+"Tuesday, December 21, 2021",P0026,10,Online,Cash,0,21,2021,12,Dec,Product26,Category04,No.,18,24.66,180,246.6
+"Sunday, December 26, 2021",P0041,14,Online,Cash,0,26,2021,12,Dec,Product41,Category05,Ft,138,173.88,1932,2434.32
+"Thursday, December 30, 2021",P0010,13,Online,Online,0,30,2021,12,Dec,Product10,Category02,Ft,148,164.28,1924,2135.64
+"Sunday, January 2, 2022",P0015,2,Online,Cash,0,2,2022,1,Jan,Product15,Category02,No.,12,15.72,24,31.44
+"Tuesday, January 4, 2022",P0029,1,Online,Online,0,4,2022,1,Jan,Product29,Category04,Lt,47,53.11,47,53.11
+"Monday, January 10, 2022",P0034,14,Online,Online,0,10,2022,1,Jan,Product34,Category04,Lt,55,58.3,770,816.2
+"Thursday, January 13, 2022",P0019,6,Online,Online,0,13,2022,1,Jan,Product19,Category02,Ft,150,210,900,1260
+"Monday, January 24, 2022",P0030,15,Online,Online,0,24,2022,1,Jan,Product30,Category04,Ft,148,201.28,2220,3019.2
+"Monday, January 31, 2022",P0023,6,Online,Cash,0,31,2022,1,Jan,Product23,Category03,Ft,141,149.46,846,896.76
+"Tuesday, February 8, 2022",P0005,11,Online,Cash,0,8,2022,2,Feb,Product05,Category01,Ft,133,155.61,1463,1711.71
+"Tuesday, February 8, 2022",P0004,3,Online,Cash,0,8,2022,2,Feb,Product04,Category01,Lt,44,48.84,132,146.52
+"Monday, February 14, 2022",P0026,8,Online,Cash,0,14,2022,2,Feb,Product26,Category04,No.,18,24.66,144,197.28
+"Wednesday, February 23, 2022",P0016,15,Online,Cash,0,23,2022,2,Feb,Product16,Category02,No.,13,16.64,195,249.6
+"Wednesday, March 9, 2022",P0004,11,Online,Cash,0,9,2022,3,Mar,Product04,Category01,Lt,44,48.84,484,537.24
+"Friday, March 18, 2022",P0019,2,Online,Cash,0,18,2022,3,Mar,Product19,Category02,Ft,150,210,300,420
+"Thursday, April 21, 2022",P0026,14,Online,Online,0,21,2022,4,Apr,Product26,Category04,No.,18,24.66,252,345.24
+"Saturday, April 30, 2022",P0016,13,Online,Online,0,30,2022,4,Apr,Product16,Category02,No.,13,16.64,169,216.32
+"Saturday, May 7, 2022",P0015,4,Online,Cash,0,7,2022,5,May,Product15,Category02,No.,12,15.72,48,62.88
+"Saturday, May 7, 2022",P0027,1,Online,Online,0,7,2022,5,May,Product27,Category04,Lt,48,57.12,48,57.12
+"Sunday, May 8, 2022",P0022,7,Online,Online,0,8,2022,5,May,Product22,Category03,Ft,121,141.57,847,990.99
+"Thursday, May 12, 2022",P0011,7,Online,Cash,0,12,2022,5,May,Product11,Category02,Lt,44,48.4,308,338.8
+"Sunday, May 15, 2022",P0020,5,Online,Online,0,15,2022,5,May,Product20,Category03,Lt,61,76.25,305,381.25
+"Thursday, May 26, 2022",P0027,2,Online,Online,0,26,2022,5,May,Product27,Category04,Lt,48,57.12,96,114.24
+"Saturday, May 28, 2022",P0010,9,Online,Cash,0,28,2022,5,May,Product10,Category02,Ft,148,164.28,1332,1478.52
+"Saturday, May 28, 2022",P0004,12,Online,Online,0,28,2022,5,May,Product04,Category01,Lt,44,48.84,528,586.08
+"Saturday, June 11, 2022",P0039,13,Online,Cash,0,11,2022,6,Jun,Product39,Category05,No.,37,42.55,481,553.15
+"Thursday, June 16, 2022",P0029,15,Online,Cash,0,16,2022,6,Jun,Product29,Category04,Lt,47,53.11,705,796.65
+"Tuesday, July 5, 2022",P0025,7,Online,Cash,0,5,2022,7,Jul,Product25,Category03,No.,7,8.33,49,58.31
+"Friday, July 15, 2022",P0004,2,Online,Online,0,15,2022,7,Jul,Product04,Category01,Lt,44,48.84,88,97.68
+"Sunday, July 17, 2022",P0041,8,Online,Cash,0,17,2022,7,Jul,Product41,Category05,Ft,138,173.88,1104,1391.04
+"Saturday, July 23, 2022",P0018,2,Online,Online,0,23,2022,7,Jul,Product18,Category02,No.,37,49.21,74,98.42
+"Sunday, July 24, 2022",P0027,1,Online,Online,0,24,2022,7,Jul,Product27,Category04,Lt,48,57.12,48,57.12
+"Tuesday, July 26, 2022",P0026,1,Online,Cash,0,26,2022,7,Jul,Product26,Category04,No.,18,24.66,18,24.66
+"Saturday, August 6, 2022",P0016,9,Online,Online,0,6,2022,8,Aug,Product16,Category02,No.,13,16.64,117,149.76
+"Thursday, August 18, 2022",P0029,8,Online,Online,0,18,2022,8,Aug,Product29,Category04,Lt,47,53.11,376,424.88
+"Thursday, August 18, 2022",P0010,2,Online,Cash,0,18,2022,8,Aug,Product10,Category02,Ft,148,164.28,296,328.56
+"Friday, August 19, 2022",P0007,3,Online,Online,0,19,2022,8,Aug,Product07,Category01,Lt,43,47.73,129,143.19
+"Sunday, August 28, 2022",P0005,9,Online,Online,0,28,2022,8,Aug,Product05,Category01,Ft,133,155.61,1197,1400.49
+"Saturday, September 10, 2022",P0035,15,Online,Cash,0,10,2022,9,Sep,Product35,Category04,No.,5,6.7,75,100.5
+"Sunday, September 18, 2022",P0026,14,Online,Cash,0,18,2022,9,Sep,Product26,Category04,No.,18,24.66,252,345.24
+"Wednesday, September 21, 2022",P0018,14,Online,Online,0,21,2022,9,Sep,Product18,Category02,No.,37,49.21,518,688.94
+"Sunday, October 23, 2022",P0024,14,Online,Cash,0,23,2022,10,Oct,Product24,Category03,Ft,144,156.96,2016,2197.44
+"Thursday, November 3, 2022",P0020,11,Online,Online,0,3,2022,11,Nov,Product20,Category03,Lt,61,76.25,671,838.75
+"Sunday, November 6, 2022",P0015,13,Online,Online,0,6,2022,11,Nov,Product15,Category02,No.,12,15.72,156,204.36
+"Wednesday, November 9, 2022",P0027,8,Online,Cash,0,9,2022,11,Nov,Product27,Category04,Lt,48,57.12,384,456.96
+"Wednesday, November 16, 2022",P0017,8,Online,Online,0,16,2022,11,Nov,Product17,Category02,Ft,134,156.78,1072,1254.24
+"Monday, December 19, 2022",P0009,11,Online,Online,0,19,2022,12,Dec,Product09,Category01,No.,6,7.86,66,86.46
+"Saturday, December 31, 2022",P0011,6,Online,Online,0,31,2022,12,Dec,Product11,Category02,Lt,44,48.4,264,290.4
+"Tuesday, January 26, 2021",P0001,7,Online,Online,0,26,2021,1,Jan,Product01,Category01,Kg,98,103.88,686,727.16
+"Saturday, January 2, 2021",P0038,15,Online,Cash,0,2,2021,1,Jan,Product38,Category05,Kg,72,79.92,1080,1198.8
+"Monday, February 22, 2021",P0013,5,Online,Cash,0,22,2021,2,Feb,Product13,Category02,Kg,112,122.08,560,610.4
+"Tuesday, January 26, 2021",P0006,7,Online,Cash,0,26,2021,1,Jan,Product06,Category01,Kg,75,85.5,525,598.5
+"Thursday, February 4, 2021",P0037,4,Online,Online,0,4,2021,2,Feb,Product37,Category05,Kg,67,85.76,268,343.04
+"Friday, February 5, 2021",P0043,7,Online,Cash,0,5,2021,2,Feb,Product43,Category05,Kg,67,83.08,469,581.56
+"Thursday, February 25, 2021",P0032,11,Online,Cash,0,25,2021,2,Feb,Product32,Category04,Kg,89,117.48,979,1292.28
+"Monday, March 8, 2021",P0044,9,Online,Online,0,8,2021,3,Mar,Product44,Category05,Kg,76,82.08,684,738.72
+"Monday, March 22, 2021",P0002,8,Online,Online,0,22,2021,3,Mar,Product02,Category01,Kg,105,142.8,840,1142.4
+"Monday, March 22, 2021",P0012,4,Online,Online,0,22,2021,3,Mar,Product12,Category02,Kg,73,94.17,292,376.68
+"Tuesday, March 30, 2021",P0038,1,Online,Cash,0,30,2021,3,Mar,Product38,Category05,Kg,72,79.92,72,79.92
+"Monday, April 5, 2021",P0031,15,Online,Online,0,5,2021,4,Apr,Product31,Category04,Kg,93,104.16,1395,1562.4
+"Sunday, May 30, 2021",P0013,6,Online,Cash,0,30,2021,5,May,Product13,Category02,Kg,112,122.08,672,732.48
+"Saturday, July 3, 2021",P0033,9,Online,Cash,0,3,2021,7,Jul,Product33,Category04,Kg,95,119.7,855,1077.3
+"Saturday, July 3, 2021",P0003,8,Online,Cash,0,3,2021,7,Jul,Product03,Category01,Kg,71,80.94,568,647.52
+"Tuesday, July 20, 2021",P0038,11,Online,Online,0,20,2021,7,Jul,Product38,Category05,Kg,72,79.92,792,879.12
+"Thursday, July 29, 2021",P0044,15,Online,Cash,0,29,2021,7,Jul,Product44,Category05,Kg,76,82.08,1140,1231.2
+"Tuesday, August 10, 2021",P0044,10,Online,Cash,0,10,2021,8,Aug,Product44,Category05,Kg,76,82.08,760,820.8
+"Monday, August 16, 2021",P0003,3,Online,Online,0,16,2021,8,Aug,Product03,Category01,Kg,71,80.94,213,242.82
+"Wednesday, September 1, 2021",P0003,14,Online,Online,0,1,2021,9,Sep,Product03,Category01,Kg,71,80.94,994,1133.16
+"Wednesday, September 22, 2021",P0040,2,Online,Cash,0,22,2021,9,Sep,Product40,Category05,Kg,90,115.2,180,230.4
+"Thursday, September 30, 2021",P0014,9,Online,Online,0,30,2021,9,Sep,Product14,Category02,Kg,112,146.72,1008,1320.48
+"Thursday, September 30, 2021",P0006,5,Online,Online,0,30,2021,9,Sep,Product06,Category01,Kg,75,85.5,375,427.5
+"Wednesday, October 6, 2021",P0036,12,Online,Online,0,6,2021,10,Oct,Product36,Category04,Kg,90,96.3,1080,1155.6
+"Saturday, October 9, 2021",P0032,11,Online,Cash,0,9,2021,10,Oct,Product32,Category04,Kg,89,117.48,979,1292.28
+"Monday, October 25, 2021",P0044,9,Online,Cash,0,25,2021,10,Oct,Product44,Category05,Kg,76,82.08,684,738.72
+"Friday, October 29, 2021",P0038,14,Online,Online,0,29,2021,10,Oct,Product38,Category05,Kg,72,79.92,1008,1118.88
+"Saturday, November 20, 2021",P0008,11,Online,Cash,0,20,2021,11,Nov,Product08,Category01,Kg,83,94.62,913,1040.82
+"Sunday, November 21, 2021",P0006,1,Online,Cash,0,21,2021,11,Nov,Product06,Category01,Kg,75,85.5,75,85.5
+"Saturday, November 27, 2021",P0012,8,Online,Online,0,27,2021,11,Nov,Product12,Category02,Kg,73,94.17,584,753.36
+"Sunday, January 16, 2022",P0014,11,Online,Cash,0,16,2022,1,Jan,Product14,Category02,Kg,112,146.72,1232,1613.92
+"Monday, January 17, 2022",P0040,4,Online,Online,0,17,2022,1,Jan,Product40,Category05,Kg,90,115.2,360,460.8
+"Thursday, January 20, 2022",P0014,7,Online,Online,0,20,2022,1,Jan,Product14,Category02,Kg,112,146.72,784,1027.04
+"Saturday, January 22, 2022",P0001,6,Online,Cash,0,22,2022,1,Jan,Product01,Category01,Kg,98,103.88,588,623.28
+"Wednesday, February 9, 2022",P0032,14,Online,Online,0,9,2022,2,Feb,Product32,Category04,Kg,89,117.48,1246,1644.72
+"Wednesday, February 16, 2022",P0032,1,Online,Cash,0,16,2022,2,Feb,Product32,Category04,Kg,89,117.48,89,117.48
+"Saturday, February 19, 2022",P0002,13,Online,Cash,0,19,2022,2,Feb,Product02,Category01,Kg,105,142.8,1365,1856.4
+"Wednesday, February 23, 2022",P0013,6,Online,Online,0,23,2022,2,Feb,Product13,Category02,Kg,112,122.08,672,732.48
+"Tuesday, March 29, 2022",P0032,12,Online,Online,0,29,2022,3,Mar,Product32,Category04,Kg,89,117.48,1068,1409.76
+"Wednesday, March 30, 2022",P0001,13,Online,Cash,0,30,2022,3,Mar,Product01,Category01,Kg,98,103.88,1274,1350.44
+"Friday, April 1, 2022",P0002,2,Online,Cash,0,1,2022,4,Apr,Product02,Category01,Kg,105,142.8,210,285.6
+"Saturday, April 9, 2022",P0002,9,Online,Online,0,9,2022,4,Apr,Product02,Category01,Kg,105,142.8,945,1285.2
+"Saturday, April 23, 2022",P0044,15,Online,Online,0,23,2022,4,Apr,Product44,Category05,Kg,76,82.08,1140,1231.2
+"Monday, April 25, 2022",P0003,8,Online,Online,0,25,2022,4,Apr,Product03,Category01,Kg,71,80.94,568,647.52
+"Sunday, May 1, 2022",P0033,6,Online,Online,0,1,2022,5,May,Product33,Category04,Kg,95,119.7,570,718.2
+"Monday, May 2, 2022",P0013,4,Online,Cash,0,2,2022,5,May,Product13,Category02,Kg,112,122.08,448,488.32
+"Monday, May 16, 2022",P0031,13,Online,Online,0,16,2022,5,May,Product31,Category04,Kg,93,104.16,1209,1354.08
+"Friday, May 20, 2022",P0044,15,Online,Cash,0,20,2022,5,May,Product44,Category05,Kg,76,82.08,1140,1231.2
+"Wednesday, May 25, 2022",P0002,7,Online,Online,0,25,2022,5,May,Product02,Category01,Kg,105,142.8,735,999.6
+"Monday, May 30, 2022",P0033,3,Online,Cash,0,30,2022,5,May,Product33,Category04,Kg,95,119.7,285,359.1
+"Friday, June 3, 2022",P0008,14,Online,Online,0,3,2022,6,Jun,Product08,Category01,Kg,83,94.62,1162,1324.68
+"Wednesday, June 22, 2022",P0040,10,Online,Cash,0,22,2022,6,Jun,Product40,Category05,Kg,90,115.2,900,1152
+"Saturday, June 25, 2022",P0012,7,Online,Online,0,25,2022,6,Jun,Product12,Category02,Kg,73,94.17,511,659.19
+"Sunday, July 10, 2022",P0032,12,Online,Cash,0,10,2022,7,Jul,Product32,Category04,Kg,89,117.48,1068,1409.76
+"Monday, July 25, 2022",P0003,13,Online,Cash,0,25,2022,7,Jul,Product03,Category01,Kg,71,80.94,923,1052.22
+"Tuesday, July 26, 2022",P0003,10,Online,Online,0,26,2022,7,Jul,Product03,Category01,Kg,71,80.94,710,809.4
+"Tuesday, August 23, 2022",P0044,11,Online,Online,0,23,2022,8,Aug,Product44,Category05,Kg,76,82.08,836,902.88
+"Friday, August 26, 2022",P0037,8,Online,Online,0,26,2022,8,Aug,Product37,Category05,Kg,67,85.76,536,686.08
+"Tuesday, August 30, 2022",P0006,6,Online,Cash,0,30,2022,8,Aug,Product06,Category01,Kg,75,85.5,450,513
+"Thursday, September 15, 2022",P0037,15,Online,Online,0,15,2022,9,Sep,Product37,Category05,Kg,67,85.76,1005,1286.4
+"Thursday, September 22, 2022",P0043,12,Online,Online,0,22,2022,9,Sep,Product43,Category05,Kg,67,83.08,804,996.96
+"Sunday, October 9, 2022",P0038,14,Online,Online,0,9,2022,10,Oct,Product38,Category05,Kg,72,79.92,1008,1118.88
+"Monday, October 10, 2022",P0044,12,Online,Online,0,10,2022,10,Oct,Product44,Category05,Kg,76,82.08,912,984.96
+"Thursday, October 13, 2022",P0002,15,Online,Online,0,13,2022,10,Oct,Product02,Category01,Kg,105,142.8,1575,2142
+"Sunday, October 16, 2022",P0036,3,Online,Online,0,16,2022,10,Oct,Product36,Category04,Kg,90,96.3,270,288.9
+"Monday, November 7, 2022",P0040,13,Online,Cash,0,7,2022,11,Nov,Product40,Category05,Kg,90,115.2,1170,1497.6
+"Wednesday, November 23, 2022",P0036,12,Online,Online,0,23,2022,11,Nov,Product36,Category04,Kg,90,96.3,1080,1155.6
+"Sunday, December 11, 2022",P0014,10,Online,Cash,0,11,2022,12,Dec,Product14,Category02,Kg,112,146.72,1120,1467.2
+"Saturday, December 31, 2022",P0033,12,Online,Online,0,31,2022,12,Dec,Product33,Category04,Kg,95,119.7,1140,1436.4
+"Friday, January 1, 2021",P0024,9,Wholesaler,Online,0,1,2021,1,Jan,Product24,Category03,Ft,144,156.96,1296,1412.64
+"Thursday, January 21, 2021",P0004,15,Wholesaler,Cash,0,21,2021,1,Jan,Product04,Category01,Lt,44,48.84,660,732.6
+"Monday, January 11, 2021",P0014,4,Wholesaler,Online,0,11,2021,1,Jan,Product14,Category02,Kg,112,146.72,448,586.88
+"Tuesday, January 26, 2021",P0044,9,Wholesaler,Cash,0,26,2021,1,Jan,Product44,Category05,Kg,76,82.08,684,738.72
+"Wednesday, February 3, 2021",P0022,2,Wholesaler,Cash,0,3,2021,2,Feb,Product22,Category03,Ft,121,141.57,242,283.14
+"Wednesday, January 27, 2021",P0040,7,Wholesaler,Online,0,27,2021,1,Jan,Product40,Category05,Kg,90,115.2,630,806.4
+"Wednesday, January 27, 2021",P0032,3,Wholesaler,Online,0,27,2021,1,Jan,Product32,Category04,Kg,89,117.48,267,352.44
+"Thursday, February 25, 2021",P0002,4,Wholesaler,Online,0,25,2021,2,Feb,Product02,Category01,Kg,105,142.8,420,571.2
+"Saturday, February 27, 2021",P0018,11,Wholesaler,Online,0,27,2021,2,Feb,Product18,Category02,No.,37,49.21,407,541.31
+"Tuesday, March 9, 2021",P0029,6,Wholesaler,Online,0,9,2021,3,Mar,Product29,Category04,Lt,47,53.11,282,318.66
+"Saturday, March 13, 2021",P0028,10,Wholesaler,Cash,0,13,2021,3,Mar,Product28,Category04,No.,37,41.81,370,418.1
+"Thursday, March 18, 2021",P0042,8,Wholesaler,Cash,0,18,2021,3,Mar,Product42,Category05,Ft,120,162,960,1296
+"Sunday, April 18, 2021",P0038,9,Wholesaler,Online,0,18,2021,4,Apr,Product38,Category05,Kg,72,79.92,648,719.28
+"Friday, June 4, 2021",P0020,8,Wholesaler,Online,0,4,2021,6,Jun,Product20,Category03,Lt,61,76.25,488,610
+"Saturday, June 5, 2021",P0022,15,Wholesaler,Online,0,5,2021,6,Jun,Product22,Category03,Ft,121,141.57,1815,2123.55
+"Tuesday, June 8, 2021",P0004,11,Wholesaler,Cash,0,8,2021,6,Jun,Product04,Category01,Lt,44,48.84,484,537.24
+"Friday, June 11, 2021",P0032,12,Wholesaler,Cash,0,11,2021,6,Jun,Product32,Category04,Kg,89,117.48,1068,1409.76
+"Wednesday, June 16, 2021",P0019,5,Wholesaler,Cash,0,16,2021,6,Jun,Product19,Category02,Ft,150,210,750,1050
+"Sunday, June 20, 2021",P0016,1,Wholesaler,Cash,0,20,2021,6,Jun,Product16,Category02,No.,13,16.64,13,16.64
+"Saturday, July 10, 2021",P0034,6,Wholesaler,Cash,0,10,2021,7,Jul,Product34,Category04,Lt,55,58.3,330,349.8
+"Sunday, July 11, 2021",P0009,4,Wholesaler,Online,0,11,2021,7,Jul,Product09,Category01,No.,6,7.86,24,31.44
+"Friday, July 16, 2021",P0023,8,Wholesaler,Cash,0,16,2021,7,Jul,Product23,Category03,Ft,141,149.46,1128,1195.68
+"Thursday, July 22, 2021",P0026,3,Wholesaler,Cash,0,22,2021,7,Jul,Product26,Category04,No.,18,24.66,54,73.98
+"Friday, July 23, 2021",P0036,7,Wholesaler,Online,0,23,2021,7,Jul,Product36,Category04,Kg,90,96.3,630,674.1
+"Friday, August 6, 2021",P0037,1,Wholesaler,Cash,0,6,2021,8,Aug,Product37,Category05,Kg,67,85.76,67,85.76
+"Tuesday, August 10, 2021",P0005,4,Wholesaler,Cash,0,10,2021,8,Aug,Product05,Category01,Ft,133,155.61,532,622.44
+"Sunday, August 29, 2021",P0034,12,Wholesaler,Online,0,29,2021,8,Aug,Product34,Category04,Lt,55,58.3,660,699.6
+"Wednesday, September 1, 2021",P0024,1,Wholesaler,Cash,0,1,2021,9,Sep,Product24,Category03,Ft,144,156.96,144,156.96
+"Friday, September 10, 2021",P0001,9,Wholesaler,Online,0,10,2021,9,Sep,Product01,Category01,Kg,98,103.88,882,934.92
+"Saturday, September 11, 2021",P0001,6,Wholesaler,Online,0,11,2021,9,Sep,Product01,Category01,Kg,98,103.88,588,623.28
+"Tuesday, September 21, 2021",P0020,7,Wholesaler,Cash,0,21,2021,9,Sep,Product20,Category03,Lt,61,76.25,427,533.75
+"Sunday, October 24, 2021",P0011,3,Wholesaler,Cash,0,24,2021,10,Oct,Product11,Category02,Lt,44,48.4,132,145.2
+"Tuesday, October 26, 2021",P0004,6,Wholesaler,Cash,0,26,2021,10,Oct,Product04,Category01,Lt,44,48.84,264,293.04
+"Thursday, November 11, 2021",P0040,12,Wholesaler,Online,0,11,2021,11,Nov,Product40,Category05,Kg,90,115.2,1080,1382.4
+"Sunday, November 21, 2021",P0014,1,Wholesaler,Online,0,21,2021,11,Nov,Product14,Category02,Kg,112,146.72,112,146.72
+"Sunday, December 19, 2021",P0029,3,Wholesaler,Online,0,19,2021,12,Dec,Product29,Category04,Lt,47,53.11,141,159.33
+"Friday, December 24, 2021",P0042,8,Wholesaler,Cash,0,24,2021,12,Dec,Product42,Category05,Ft,120,162,960,1296
+"Friday, December 24, 2021",P0036,8,Wholesaler,Online,0,24,2021,12,Dec,Product36,Category04,Kg,90,96.3,720,770.4
+"Saturday, January 1, 2022",P0022,1,Wholesaler,Cash,0,1,2022,1,Jan,Product22,Category03,Ft,121,141.57,121,141.57
+"Tuesday, January 18, 2022",P0008,9,Wholesaler,Cash,0,18,2022,1,Jan,Product08,Category01,Kg,83,94.62,747,851.58
+"Sunday, January 23, 2022",P0002,5,Wholesaler,Cash,0,23,2022,1,Jan,Product02,Category01,Kg,105,142.8,525,714
+"Friday, March 4, 2022",P0026,13,Wholesaler,Online,0,4,2022,3,Mar,Product26,Category04,No.,18,24.66,234,320.58
+"Thursday, March 10, 2022",P0033,12,Wholesaler,Online,0,10,2022,3,Mar,Product33,Category04,Kg,95,119.7,1140,1436.4
+"Saturday, March 19, 2022",P0041,6,Wholesaler,Cash,0,19,2022,3,Mar,Product41,Category05,Ft,138,173.88,828,1043.28
+"Friday, March 25, 2022",P0001,2,Wholesaler,Online,0,25,2022,3,Mar,Product01,Category01,Kg,98,103.88,196,207.76
+"Wednesday, April 6, 2022",P0040,2,Wholesaler,Cash,0,6,2022,4,Apr,Product40,Category05,Kg,90,115.2,180,230.4
+"Saturday, April 9, 2022",P0039,12,Wholesaler,Cash,0,9,2022,4,Apr,Product39,Category05,No.,37,42.55,444,510.6
+"Wednesday, April 13, 2022",P0016,14,Wholesaler,Online,0,13,2022,4,Apr,Product16,Category02,No.,13,16.64,182,232.96
+"Wednesday, April 20, 2022",P0018,2,Wholesaler,Online,0,20,2022,4,Apr,Product18,Category02,No.,37,49.21,74,98.42
+"Sunday, May 1, 2022",P0034,9,Wholesaler,Online,0,1,2022,5,May,Product34,Category04,Lt,55,58.3,495,524.7
+"Monday, May 9, 2022",P0017,12,Wholesaler,Cash,0,9,2022,5,May,Product17,Category02,Ft,134,156.78,1608,1881.36
+"Wednesday, May 18, 2022",P0027,4,Wholesaler,Online,0,18,2022,5,May,Product27,Category04,Lt,48,57.12,192,228.48
+"Wednesday, May 18, 2022",P0038,8,Wholesaler,Online,0,18,2022,5,May,Product38,Category05,Kg,72,79.92,576,639.36
+"Saturday, May 28, 2022",P0041,10,Wholesaler,Cash,0,28,2022,5,May,Product41,Category05,Ft,138,173.88,1380,1738.8
+"Saturday, May 28, 2022",P0008,5,Wholesaler,Online,0,28,2022,5,May,Product08,Category01,Kg,83,94.62,415,473.1
+"Monday, May 30, 2022",P0005,4,Wholesaler,Cash,0,30,2022,5,May,Product05,Category01,Ft,133,155.61,532,622.44
+"Friday, June 10, 2022",P0028,8,Wholesaler,Online,0,10,2022,6,Jun,Product28,Category04,No.,37,41.81,296,334.48
+"Wednesday, June 15, 2022",P0042,15,Wholesaler,Online,0,15,2022,6,Jun,Product42,Category05,Ft,120,162,1800,2430
+"Wednesday, July 20, 2022",P0042,8,Wholesaler,Online,0,20,2022,7,Jul,Product42,Category05,Ft,120,162,960,1296
+"Monday, August 15, 2022",P0011,10,Wholesaler,Cash,0,15,2022,8,Aug,Product11,Category02,Lt,44,48.4,440,484
+"Friday, August 26, 2022",P0019,13,Wholesaler,Cash,0,26,2022,8,Aug,Product19,Category02,Ft,150,210,1950,2730
+"Saturday, August 27, 2022",P0039,15,Wholesaler,Online,0,27,2022,8,Aug,Product39,Category05,No.,37,42.55,555,638.25
+"Tuesday, September 6, 2022",P0005,12,Wholesaler,Online,0,6,2022,9,Sep,Product05,Category01,Ft,133,155.61,1596,1867.32
+"Monday, September 19, 2022",P0033,8,Wholesaler,Cash,0,19,2022,9,Sep,Product33,Category04,Kg,95,119.7,760,957.6
+"Tuesday, September 27, 2022",P0038,3,Wholesaler,Cash,0,27,2022,9,Sep,Product38,Category05,Kg,72,79.92,216,239.76
+"Friday, October 14, 2022",P0044,15,Wholesaler,Online,0,14,2022,10,Oct,Product44,Category05,Kg,76,82.08,1140,1231.2
+"Tuesday, November 1, 2022",P0012,15,Wholesaler,Online,0,1,2022,11,Nov,Product12,Category02,Kg,73,94.17,1095,1412.55
+"Wednesday, November 2, 2022",P0015,15,Wholesaler,Cash,0,2,2022,11,Nov,Product15,Category02,No.,12,15.72,180,235.8
+"Tuesday, November 8, 2022",P0036,11,Wholesaler,Cash,0,8,2022,11,Nov,Product36,Category04,Kg,90,96.3,990,1059.3
+"Tuesday, November 8, 2022",P0019,10,Wholesaler,Online,0,8,2022,11,Nov,Product19,Category02,Ft,150,210,1500,2100
+"Sunday, November 13, 2022",P0027,10,Wholesaler,Cash,0,13,2022,11,Nov,Product27,Category04,Lt,48,57.12,480,571.2
+"Saturday, December 3, 2022",P0028,5,Wholesaler,Cash,0,3,2022,12,Dec,Product28,Category04,No.,37,41.81,185,209.05
+"Sunday, December 11, 2022",P0013,9,Wholesaler,Online,0,11,2022,12,Dec,Product13,Category02,Kg,112,122.08,1008,1098.72
+"Monday, December 12, 2022",P0030,9,Wholesaler,Cash,0,12,2022,12,Dec,Product30,Category04,Ft,148,201.28,1332,1811.52
+"Monday, December 12, 2022",P0041,10,Wholesaler,Online,0,12,2022,12,Dec,Product41,Category05,Ft,138,173.88,1380,1738.8
+"Thursday, December 29, 2022",P0042,1,Wholesaler,Cash,0,29,2022,12,Dec,Product42,Category05,Ft,120,162,120,162
+"Saturday, December 31, 2022",P0011,3,Wholesaler,Cash,0,31,2022,12,Dec,Product11,Category02,Lt,44,48.4,132,145.2
